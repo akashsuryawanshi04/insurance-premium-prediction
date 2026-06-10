@@ -20,6 +20,5 @@ Insurance Dataset
 
 ## Results
 
-
 r-squared: 0.7811302113434095
 adjusted r^2: 0.7769533069797342
